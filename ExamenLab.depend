@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1393364112 source:/home/turupawn/Projects/Codeblocks/ExamenLab/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	"Pelotita.h"
+	"Lista.h"
+
+1393010153 source:/home/turupawn/Projects/Codeblocks/ExamenLab/Pelotita.cpp
+	"Pelotita.h"
+
+1393012327 /home/turupawn/Projects/Codeblocks/ExamenLab/Pelotita.h
+	"SDL/SDL.h"
+
+1393012282 source:/home/turupawn/Projects/Codeblocks/ExamenLab/Lista.cpp
+	"Lista.h"
+
+1393011524 /home/turupawn/Projects/Codeblocks/ExamenLab/Lista.h
+	"Pelotita.h"
+
+1393592669 source:/home/mac21/Desktop/programaing/ExamenLabPelotitas-master/Lista.cpp
+	"Lista.h"
+	<ctime>
+
+1393364906 /home/mac21/Desktop/programaing/ExamenLabPelotitas-master/Lista.h
+	"Pelotita.h"
+
+1393364906 /home/mac21/Desktop/programaing/ExamenLabPelotitas-master/Pelotita.h
+	"SDL/SDL.h"
+
+1393364906 source:/home/mac21/Desktop/programaing/ExamenLabPelotitas-master/Pelotita.cpp
+	"Pelotita.h"
+
+1393610271 source:/home/mac21/Desktop/programaing/ExamenLabPelotitas-master/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	"Pelotita.h"
+	"Lista.h"
+	<ctime>
+	<cstdlib>
+
+1393612338 source:c:\users\omar\desktop\examenlabpelotitas-master\lista.cpp
+	"Lista.h"
+	<ctime>
+
+1393364906 c:\users\omar\desktop\examenlabpelotitas-master\lista.h
+	"Pelotita.h"
+
+1393364906 c:\users\omar\desktop\examenlabpelotitas-master\pelotita.h
+	"SDL/SDL.h"
+
+1393364906 source:c:\users\omar\desktop\examenlabpelotitas-master\pelotita.cpp
+	"Pelotita.h"
+
+1393612239 source:c:\users\omar\desktop\examenlabpelotitas-master\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	"Pelotita.h"
+	"Lista.h"
+	<ctime>
+	<cstdlib>
+
